@@ -29,6 +29,5 @@ Click on the buttons displayed on the screen to play different drum sounds or pr
 ## Contributing
 
 Contributions are welcome! Fork the repository and create a pull request with your suggested changes.
-```
 
 Feel free to make any further modifications or additions as needed for your specific project.

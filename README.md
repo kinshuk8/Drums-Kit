@@ -17,7 +17,7 @@ Include a link to the live demo of the project or add a gif/video demonstrating 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/drum-kit.git
+   git clone https://github.com/kinshuk8/drum-kit.git
    ```
 
 2. Open the `index.html` file in your web browser.

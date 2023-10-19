@@ -4,7 +4,7 @@ A simple virtual drum kit web application that allows users to play different dr
 
 ## Description
 
-The Drum Kit project is a part of the "The Complete 2021 Web Development Bootcamp" course by Angela Yu on Udemy. It is designed to help participants grasp the fundamental concepts of HTML, CSS, and JavaScript, focusing on handling button clicks, key presses, playing audio files, and implementing simple animations using JavaScript and CSS.
+The Drum Kit project is a part of the "The Complete 2023 Web Development Bootcamp" course by Angela Yu on Udemy. It is designed to help participants grasp the fundamental concepts of HTML, CSS, and JavaScript, focusing on handling button clicks, key presses, playing audio files, and implementing simple animations using JavaScript and CSS.
 
 The project provides a basic understanding of event handling in JavaScript, audio handling, and DOM manipulation.
 
